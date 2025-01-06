@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253963276690",
+    "project_id": "juzz-amma",
+    "storage_bucket": "juzz-amma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253963276690:android:ea4a15e52a5e7e461f714b",
+        "android_client_info": {
+          "package_name": "com.azhar.juz_amma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4rgUtwTPs40YhPM1fqFtlrlqD-gCzeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
